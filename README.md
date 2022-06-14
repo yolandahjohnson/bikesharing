@@ -39,7 +39,7 @@ This heat map shows that males use bikeshare the most between the hours of 5pm a
 This heat map show that male subscribers are the majority user each day of the week.
 
 ## Summary
-The data shows that Subscribers use Citibike bikesharing more than Customers. Among all users, Men utilized bike sharing more than Women and Unkown riders. Rides range from zero minutes up to 23 hours and 54 minutes. The rides that are for zero minutes suggest that a rider changed their mind and did not use the bike after renting it. The number of riders on Monday through Friday at 8am and between 5pm and 7pm suggest that riders are using the bikes to go to work and home. 
+The data shows that Subscribers use Citibike bikesharing more than Customers. Among all users, Men utilized bike sharing more than Women and Unkown riders. Rides range from zero minutes up to 23 hours and 54 minutes. The rides that are for zero minutes suggest that a rider changed their mind and did not use the bike after renting it. The number of riders on Monday through Friday at 8am and between 5pm and 7pm suggest that riders are using the bikes to commute to and from work.
 
 An analysis of the weather could be useful to see if Des Moines, Iowa and New York City have comparable weather in August. If they are comparable then the chances are good that it will be sucessful. Additionally, an analysis of the population and tourist numbers could be useful in determining how many people would be available to use Citibike sharing. 
 
