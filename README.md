@@ -2,7 +2,7 @@
 
 ## Overview
 
-Utilizing data from the Citibike biksharing in Mew York City, an analysis was done to see if the same model could be recreated in Des Moines, Iowa. Data from August 2019 was used since it is a beautiful time of year to rent a bike. The data anaylized includes the type of user, the gender of users, the duration of each trip, the day of the week for each trip, and the start and end location of each trip. This data will be helpful in deterining how may rides that could be expected in the city of Des Moines.
+Utilizing data from the Citibike bike sharing in New York City, an analysis was done to see if the same model could be recreated in Des Moines, Iowa. Data from August 2019 was used since it is a beautiful time of year to rent a bike. The data anaylized includes the type of user, the gender of users, the duration of each trip, the day of the week for each trip, and the start and end location of each trip. This data will be helpful in deterining how may rides that could be expected in the city of Des Moines.
 
 ## Tableau Public Link
 https://public.tableau.com/app/profile/yolanda.johnson2488/viz/NYC_CitiBike_Challenge_16551727388420/BikesharingStory?publish=yes
